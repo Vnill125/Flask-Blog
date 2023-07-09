@@ -18,6 +18,7 @@ posts = [
         'date_posted': 'April 21, 2018'
     }
 ]
+
 @app.route("/")
 @app.route("/home")
 def home():
