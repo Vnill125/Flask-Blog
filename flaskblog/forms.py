@@ -46,5 +46,3 @@ class UpdateAccountForm(FlaskForm):
             if email:
                 raise ValidationError('That email is taken. Please choose a different one.')
 
-
-
