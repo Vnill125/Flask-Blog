@@ -14,3 +14,4 @@ login_manager.login_message = "info"
 
 from flaskblog import routes
 
+
